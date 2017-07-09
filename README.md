@@ -116,6 +116,8 @@ So the result 0x00 , 0x01 , 0x02 , 0x03 - mean that RW1990 was programmed OK, bu
 If bit 7th is set (mask 0x80 ) then there occured errors, mask byte with bits above to see what error occured.
 
 # EoF
+In forlder ```images``` you can see my test board :D
+The file rw1990-test_m32_16MHz_1w-PD7_USART38400_8N1.hex is a compiled flash for ATMega32 with hardware configured as above mentioned.
 :sleeping:
 
 
